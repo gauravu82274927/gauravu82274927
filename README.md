@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gauravu82274927
-- 👀 I’m interested in solving coding problems
-- 🌱 I’m currently learning python, C, Cpp
+- 👀 Interested in solving coding problems
+- 🌱 Currently learning python, C, Cpp
 - 😄 Pronouns: He/ Him
 
 <!---
